@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 2 - İbrahim Çelik
 1. IOC and DI means ?
 2. Spring Bean Scopes ?
 3. What does @SpringBootApplication do ?
